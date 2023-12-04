@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hw7-tutorial"
+  site-url: "https://tpringle02.github.io/hw7-tutorial"
+  description: "Homework 7 Tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/tpringle02/hw7-tutorial"
